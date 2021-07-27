@@ -1,3 +1,8 @@
+# additing more files to ignore on date 20210726
+config.py
+API_practice.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
