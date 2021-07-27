@@ -2,7 +2,11 @@
 ## Student Name: Christopher Mastrangelo
 Module 6 - created new repo and cloned it to local workstation 
 
-## Additional Information to be included in the report - Technical CHallenges
+The main body of the write-up for the Module 6 Challenge will go here.  The supplemental information below may be moved to its own file before I submit the assignnemnt. 
+
+<hr>
+
+## Additional Information to be included in the report - Technical Challenges
 ### Errors found in online course materials
 
 Unit 6.2.4 - near the end the following piece of code is pasted into the API_practice notebook
@@ -15,7 +19,7 @@ if city_weather.json():<br>
 else:<br>
   print(f"City weather not found.")<br>
 <br>
-The lesson says this will result in weather not found but it always returns TRUE because there is always a JSON response even if it contains the error code and messsage
+The lesson says this will result in city not found but it always returns TRUE because there is always a JSON response even if it contains the error code and messsage
 <hr>
 Unit 6.2.6 - the following statement (see image) of the course material is intended to show the difference if the blanks are not parsed/replaced out of the city name before
 generating the URL.  However, the links for Cabo and Cabo+San+Lucas still do not work because the API Key is not valid.  So to do this comparison you would 
@@ -37,7 +41,19 @@ lon: -109.9124,
 lat: 22.8909
 }</li></ul>
 
-So this illustrates that these are two different cities that both begin with the word "Cabo"
+So this illustrates that Cabo and Cabo+San+Lucas are two different cities- Cabo alone brings up Cabo De Santo Augustinho in Brazil pop 208,000
+
+<hr>
+
+Section 6.2.7 - this is a code discrepancy rather than a problem in the online course  materials per se. 
+When I try to create a cities list longer than 450 members, my code will not run.  If maxsize >= 500 my list comes back with a zero length
+Maybe I should use a try-catch method on this piece of code to see what happens?
+
+![image](https://user-images.githubusercontent.com/86205000/127178478-bb4eff83-9fb6-4241-9fca-8b3fd6c948ac.png)
+
+<hr>
+
+Placeholder for the next error when I find it.
 
 <hr>
 
