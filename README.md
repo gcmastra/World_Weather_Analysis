@@ -43,13 +43,21 @@ lat: 22.8909
 
 So this illustrates that Cabo and Cabo+San+Lucas are two different cities- Cabo alone brings up Cabo De Santo Augustinho in Brazil pop 208,000
 
+### A few more observations
+
+But what about cities that share the same name like wilmington or springfield- how would you distinguish between Wilmington MA and Wilmington NC  ? ?
+
+What about "bluff" ? Same issue as Cabo? other examples: bluff, bend,  or college ? the word college appears in many city names 
+
+Hilo in HI shows up in EVERY RUN because it is the closest city to almost ANY point in the Pacific Ocean
+
+I still don't know why we couldn't take the top 25 cities from each country and then shuffle those to get real places people will go
+
+I think it is mostly to teach people how the random functions work and the citipy module works
+
 <hr>
 
-Section 6.2.7 - this is a code discrepancy rather than a problem in the online course  materials per se. 
-When I try to create a cities list longer than 450 members, my code will not run.  If maxsize >= 500 my list comes back with a zero length
-Maybe I should use a try-catch method on this piece of code to see what happens?
-
-![image](https://user-images.githubusercontent.com/86205000/127178478-bb4eff83-9fb6-4241-9fca-8b3fd6c948ac.png)
+Did a git push at the end of section 6.2.7
 
 <hr>
 
