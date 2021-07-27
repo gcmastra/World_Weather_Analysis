@@ -74,4 +74,8 @@ Seems unlikely but if you ask Google Maps to show "Resorts" in a search centered
 
 ![image](https://user-images.githubusercontent.com/86205000/127017078-20df8dce-0825-4dea-8c66-d0cc5bf09680.png)
 
+There are some really cool places in Greenland but is anyone really going to go there? 
+
+![image](https://user-images.githubusercontent.com/86205000/127206910-a690c432-bded-4438-bf1c-4c746a49797d.png)
+
 Just saying.  
