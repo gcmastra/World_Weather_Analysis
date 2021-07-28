@@ -67,12 +67,16 @@ Placeholder for the next error when I find it.
 
 ### Some neat stuff I encountered along the way
 
-Unit 6.1.4 Random numbers, latitude and longitude - these random GPS coords come up with some far out locations
-![image](https://user-images.githubusercontent.com/86205000/127003929-74c23a71-ca41-4159-ad64-6e1b8f48070e.png)
+First version of heat map in section 6.5.2 - the map "works" but something looks wrong.  What do you think? 
+![image](https://user-images.githubusercontent.com/86205000/127306793-cff5c81a-b80f-4351-a36c-b5f417c86ca5.png)
+
+The map displays properly but based on the data we gave it, New York city is "hotter" than Texas or Mexico City.  That doesn't seem right.
 
 Seems unlikely but if you ask Google Maps to show "Resorts" in a search centered on a random place in New Caledonia, you get this . . 
 
 ![image](https://user-images.githubusercontent.com/86205000/127017078-20df8dce-0825-4dea-8c66-d0cc5bf09680.png)
+
+Is there really a resort in New Zealand for $17 per night? LETS GO! But the airfare might wipe out that savings.
 
 There are some really cool places in Greenland but is anyone really going to go there? 
 
