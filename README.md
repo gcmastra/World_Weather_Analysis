@@ -61,7 +61,13 @@ Did a git push at the end of section 6.2.7
 
 <hr>
 
-Placeholder for the next error when I find it.
+
+In Section 6.4.3, when copying/pasting the code directly out of the course materials, in two cases I got an unusual error message . . .
+
+![image](https://user-images.githubusercontent.com/86205000/127552457-8e6d974a-bbc3-4963-ae14-29be921f05ee.png)
+
+It doesn't like the line break or EOL character for some reason.  But when I copy/paste from another working cell in the notebook, 
+and edit this line to look identical instead of pasting it in from the clipboard, the error goes away. 
 
 <hr>
 
