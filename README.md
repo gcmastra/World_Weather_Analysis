@@ -1,8 +1,13 @@
-# World_Weather_Analysis
+# World_Weather_Analysis - Module 6 Challenge
 ## Student Name: Christopher Mastrangelo
 Module 6 - created new repo and cloned it to local workstation 
 
-The main body of the write-up for the Module 6 Challenge will go here.  The supplemental information below may be moved to its own file before I submit the assignnemnt. 
+
+## Deliverable # 1 - Retrieve Weather Data and Export to CSV
+
+This is how the city_data_df looks before exported to the CSV file 
+
+![image](./Weather_Database/gwu20210806_city_data_df_head_image.JPG)
 
 <hr>
 
