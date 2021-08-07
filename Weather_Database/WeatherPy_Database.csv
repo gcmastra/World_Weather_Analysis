@@ -1,0 +1,212 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Palmer,US,42.1584,-72.3287,74.01,73,20,5.75,few clouds
+1,Houma,US,29.5958,-90.7195,84.97,81,22,5.12,few clouds
+2,Roberval,CA,48.5168,-72.2324,72.23,59,100,12.64,overcast clouds
+3,Poplar Bluff,US,36.757,-90.3929,76.78,73,1,4.61,clear sky
+4,Prince Rupert,CA,54.3161,-130.3201,60.89,82,90,6.91,light rain
+5,Barrow,US,71.2906,-156.7887,39.22,87,90,12.66,overcast clouds
+6,Fortuna,US,40.5982,-124.1573,81.19,60,1,8.01,clear sky
+7,Port-Cartier,CA,50.0334,-66.8654,60.75,80,53,5.06,broken clouds
+8,Fairbanks,US,64.8378,-147.7164,67.3,79,90,1.01,light rain
+9,Pangnirtung,CA,66.1451,-65.7125,39.24,91,100,1.34,overcast clouds
+10,Opelousas,US,30.5335,-92.0815,80.49,60,1,0.0,clear sky
+11,Hilo,US,19.7297,-155.09,76.8,92,99,9.93,light rain
+12,Hamilton,US,39.1834,-84.5333,76.77,75,1,0.0,clear sky
+13,Malartic,CA,48.1335,-78.1328,67.82,91,100,9.26,overcast clouds
+14,Hay River,CA,60.8156,-115.7999,60.64,76,99,6.78,overcast clouds
+15,Kodiak,US,57.79,-152.4072,58.51,82,90,3.44,overcast clouds
+16,Pleasanton,US,37.6624,-121.8747,92.98,52,1,9.22,haze
+17,Redlands,US,34.0556,-117.1825,99.68,39,1,3.0,clear sky
+18,Kapaa,US,22.0752,-159.319,84.52,68,75,3.0,broken clouds
+19,Port Townsend,US,48.117,-122.7605,74.01,68,40,10.0,scattered clouds
+20,Springville,US,40.1652,-111.6107,78.67,30,90,1.01,haze
+21,Thompson,CA,55.7435,-97.8558,62.17,71,17,5.26,few clouds
+22,Clyde River,CA,70.4692,-68.5914,35.83,93,90,9.22,mist
+23,Fort Nelson,CA,58.8053,-122.7002,61.54,91,100,6.64,overcast clouds
+24,Homer,US,59.6425,-151.5483,68.07,86,1,10.36,clear sky
+25,Kahului,US,20.8947,-156.47,85.26,64,20,25.32,few clouds
+26,Superior,US,46.7208,-92.1041,69.62,87,1,5.75,clear sky
+27,Flin Flon,CA,54.7682,-101.865,68.9,63,16,10.47,few clouds
+28,Tupelo,US,34.2576,-88.7034,75.49,83,40,0.0,scattered clouds
+29,Eureka,US,40.8021,-124.1637,71.13,80,77,5.01,broken clouds
+30,Sooke,CA,48.3746,-123.7276,64.92,59,100,8.79,overcast clouds
+31,Glendive,US,47.1053,-104.7125,80.22,57,75,12.66,broken clouds
+32,Ketchikan,US,55.3422,-131.6461,59.22,85,78,6.2,light rain
+33,East Millcreek,US,40.7,-111.8105,78.08,36,40,1.99,haze
+34,Lincoln,US,40.8,-96.667,85.28,59,1,4.0,clear sky
+35,Yellowknife,CA,62.456,-114.3525,68.29,56,100,2.37,overcast clouds
+36,Sioux Lookout,CA,50.1001,-91.917,60.17,58,100,3.76,overcast clouds
+37,Chapais,CA,49.7834,-74.8492,62.38,92,100,11.97,overcast clouds
+38,Half Moon Bay,US,37.4636,-122.4286,89.42,79,1,1.01,haze
+39,Invermere,CA,50.5167,-116.0354,77.63,35,100,2.75,overcast clouds
+40,North Bend,US,43.4065,-124.2243,78.24,94,90,12.66,overcast clouds
+41,Slave Lake,CA,55.2834,-114.769,61.7,64,92,4.5,overcast clouds
+42,Meridian,US,43.6121,-116.3915,83.32,39,1,3.44,clear sky
+43,Burns Lake,CA,54.2331,-125.7533,61.29,46,45,11.7,scattered clouds
+44,Moose Factory,CA,51.2585,-80.6094,44.51,82,7,2.1,clear sky
+45,Sept-Iles,CA,50.2001,-66.3821,61.05,92,66,1.99,broken clouds
+46,Sitka,US,57.0531,-135.33,60.69,82,75,0.0,light rain
+47,Bethel,US,41.3712,-73.414,75.56,76,1,8.05,clear sky
+48,Coos Bay,US,43.3665,-124.2179,87.01,94,90,12.66,overcast clouds
+49,Lompoc,US,34.6391,-120.4579,77.77,83,1,10.36,mist
+50,Fort Saint James,CA,54.4333,-124.25,64.74,40,86,10.4,overcast clouds
+51,Batesville,US,35.7698,-91.641,79.21,67,1,3.44,clear sky
+52,Iqaluit,CA,63.7506,-68.5145,42.53,81,90,4.61,light rain
+53,Jerome,US,42.7241,-114.5186,74.23,38,1,9.22,clear sky
+54,Healdsburg,US,38.6105,-122.8692,97.9,41,1,5.01,clear sky
+55,Mayo,US,38.8876,-76.5119,80.91,71,1,1.01,clear sky
+56,Rolla,US,37.9514,-91.7713,79.21,72,1,5.01,clear sky
+57,Pacific Grove,US,36.6177,-121.9166,89.15,83,20,1.99,few clouds
+58,Aklavik,CA,68.2191,-135.0107,41.92,70,100,14.27,overcast clouds
+59,Tuktoyaktuk,CA,69.4541,-133.0374,40.14,81,100,15.37,overcast clouds
+60,Big Rapids,US,43.6981,-85.4837,73.04,93,40,0.0,scattered clouds
+61,Medicine Hat,CA,50.0501,-110.6683,90.72,15,83,16.15,broken clouds
+62,Norman Wells,CA,65.282,-126.8329,53.64,76,75,17.27,broken clouds
+63,Vanderhoof,CA,54.0166,-124.0198,65.82,39,100,9.19,overcast clouds
+64,North Myrtle Beach,US,33.816,-78.68,82.02,93,20,3.0,few clouds
+65,Mattoon,US,39.4831,-88.3728,76.62,83,1,5.75,clear sky
+66,Nome,US,64.5011,-165.4064,48.27,87,90,9.22,light rain
+67,Princeton,US,25.5384,-80.4089,86.02,82,1,0.0,clear sky
+68,Sevierville,US,35.8681,-83.5618,77.52,78,1,0.0,clear sky
+69,Lillooet,CA,50.6856,-121.942,70.03,60,88,6.93,overcast clouds
+70,Dryden,CA,49.7833,-92.7503,60.76,60,100,4.76,overcast clouds
+71,Magalia,US,39.8121,-121.5783,89.76,22,0,4.0,clear sky
+72,Spirit River,CA,55.7833,-118.8361,63.75,37,19,15.75,few clouds
+73,Amos,CA,48.5669,-78.1162,67.98,97,100,6.51,heavy intensity rain
+74,Isla Vista,US,34.4133,-119.861,83.68,72,1,5.75,clear sky
+75,Hurricane,US,37.1753,-113.2899,99.07,7,0,12.06,clear sky
+76,Athabasca,CA,54.7169,-113.2854,68.49,42,87,10.0,overcast clouds
+77,Havelock,US,34.8791,-76.9013,78.94,94,100,4.76,overcast clouds
+78,Pacifica,US,37.6138,-122.4869,89.67,89,40,1.01,scattered clouds
+79,Smoky Lake,CA,54.1169,-112.4686,63.48,46,89,8.12,overcast clouds
+80,Kingman,US,35.1894,-114.053,102.29,16,1,10.0,clear sky
+81,Brigantine,US,39.4101,-74.3646,75.02,83,1,4.61,clear sky
+82,Jamestown,US,42.097,-79.2353,70.02,85,1,1.01,clear sky
+83,Provost,CA,52.3501,-110.2683,68.65,60,100,7.52,overcast clouds
+84,Smithers,CA,54.7804,-127.1743,60.24,57,31,7.99,scattered clouds
+85,Saint Andrews,US,34.0454,-81.1293,75.74,89,90,4.61,mist
+86,Cortez,US,37.3489,-108.5859,87.51,17,1,8.05,clear sky
+87,Port Hardy,CA,50.6996,-127.4199,55.58,100,75,5.75,light rain
+88,High Level,CA,58.5169,-117.136,72.64,33,99,12.08,overcast clouds
+89,Merrill,US,45.1805,-89.6835,69.75,100,1,0.0,clear sky
+90,Washington,US,47.5001,-120.5015,77.95,31,100,8.55,overcast clouds
+91,Maple Creek,CA,49.9168,-109.4848,77.5,39,100,9.22,overcast clouds
+92,Rawlins,US,41.7911,-107.2387,68.22,45,1,12.66,clear sky
+93,Whitehorse,CA,60.7161,-135.0538,57.02,95,100,3.09,light rain
+94,Ukiah,US,39.1502,-123.2078,96.01,27,1,6.91,clear sky
+95,Kewanee,US,41.2456,-89.9248,76.33,95,0,7.34,clear sky
+96,Elko,US,41.0002,-115.5012,77.74,19,1,8.99,clear sky
+97,Haines Junction,CA,60.7522,-137.5108,54.48,97,100,3.11,moderate rain
+98,Marathon,US,44.9,-89.7668,70.48,90,1,0.0,clear sky
+99,Galveston,US,29.3669,-94.9669,84.94,84,1,9.22,clear sky
+100,Dickinson,US,29.4608,-95.0513,84.29,80,20,9.22,few clouds
+101,Elizabeth City,US,36.2946,-76.2511,75.97,91,40,3.44,scattered clouds
+102,Tallahassee,US,30.4383,-84.2807,80.62,92,1,4.61,clear sky
+103,Outlook,CA,51.5001,-107.0513,83.8,36,39,16.26,scattered clouds
+104,Iroquois Falls,CA,48.7669,-80.6831,55.54,98,100,8.72,overcast clouds
+105,Polson,US,47.6936,-114.1632,78.28,43,75,3.0,broken clouds
+106,Inuvik,CA,68.3499,-133.7218,42.35,63,100,12.57,overcast clouds
+107,Columbia,US,34.0007,-81.0348,76.5,97,90,0.0,mist
+108,Oakley,US,37.9974,-121.7124,94.15,28,0,3.0,clear sky
+109,Melville,US,40.7934,-73.4151,78.85,72,1,3.0,clear sky
+110,Phenix City,US,32.471,-85.0008,80.74,78,1,4.61,clear sky
+111,Abilene,US,32.4487,-99.7331,89.82,42,1,1.01,clear sky
+112,Kenai,US,60.5544,-151.2583,68.02,81,1,10.36,clear sky
+113,Douglas,US,41.3,-96.167,84.74,78,1,3.0,clear sky
+114,Plant City,US,28.0186,-82.1129,85.57,87,90,1.01,light rain
+115,Yarmouth,US,41.7057,-70.2286,72.18,93,1,3.0,clear sky
+116,Alpena,US,45.0617,-83.4327,70.11,94,40,3.44,scattered clouds
+117,Ucluelet,CA,48.9329,-125.5528,63.05,93,100,5.44,overcast clouds
+118,Lewistown,US,40.5992,-77.5714,79.93,76,75,6.91,light rain
+119,Rancho Palos Verdes,US,33.7445,-118.387,87.21,85,28,3.0,scattered clouds
+120,College,US,64.8569,-147.8028,67.28,79,90,5.75,light rain
+121,Elmira,US,42.0898,-76.8077,75.9,83,75,0.0,broken clouds
+122,Fort Smith,US,35.3859,-94.3986,82.44,71,1,3.44,clear sky
+123,Rio Rancho,US,35.2334,-106.6645,89.74,25,40,4.0,scattered clouds
+124,West Plains,US,36.7281,-91.8524,77.09,79,1,1.01,clear sky
+125,Susanville,US,40.4163,-120.653,80.44,18,1,3.44,haze
+126,Clovis,US,36.8252,-119.7029,97.68,22,1,1.99,smoke
+127,Burton,US,42.9995,-83.6163,73.62,73,1,4.61,clear sky
+128,Fairview,US,40.8126,-73.999,79.86,67,1,4.61,clear sky
+129,Bend,US,44.0582,-121.3153,79.88,40,1,5.99,clear sky
+130,La Ronge,CA,55.1001,-105.2842,66.87,70,59,4.83,broken clouds
+131,Saint-Michel-Des-Saints,CA,46.6834,-73.9159,67.44,69,61,7.81,broken clouds
+132,Causapscal,CA,48.3542,-67.227,72.95,67,82,7.65,broken clouds
+133,Englewood,US,39.6478,-104.9878,82.24,47,40,1.01,scattered clouds
+134,New Kensington,US,40.5698,-79.7648,78.04,75,100,3.47,overcast clouds
+135,Hayden,US,47.766,-116.7866,82.06,35,1,13.8,clear sky
+136,Thunder Bay,CA,48.4001,-89.3168,62.56,76,3,2.53,clear sky
+137,Middlebury,US,44.0153,-73.1673,75.7,74,1,0.0,clear sky
+138,North Platte,US,41.1239,-100.7654,85.01,45,20,1.01,thunderstorm
+139,Show Low,US,34.2542,-110.0298,80.89,35,1,10.36,clear sky
+140,Destin,US,30.3935,-86.4958,83.97,78,1,0.0,clear sky
+141,Sicamous,CA,50.8331,-118.9856,76.12,32,100,7.47,overcast clouds
+142,Hoquiam,US,46.9809,-123.8893,72.37,51,90,9.22,overcast clouds
+143,Fenelon Falls,CA,44.5334,-78.7496,70.81,72,96,7.05,overcast clouds
+144,Lively,CA,46.4334,-81.1498,66.02,85,100,4.79,overcast clouds
+145,Rimbey,CA,52.6334,-114.2353,61.63,55,77,9.6,broken clouds
+146,Villa Rica,US,33.7321,-84.9191,76.69,92,100,3.94,overcast clouds
+147,Saint George,US,37.1041,-113.5841,100.99,4,1,4.0,clear sky
+148,Gimli,CA,50.6336,-96.9907,69.44,57,100,8.32,overcast clouds
+149,Grand Forks,US,47.9417,-97.4337,69.73,66,40,4.61,smoke
+150,Sartell,US,45.6216,-94.2069,78.39,63,20,1.01,few clouds
+151,Okotoks,CA,50.7289,-113.9828,71.1,22,93,15.99,overcast clouds
+152,Rapid Valley,US,44.0625,-103.1463,72.59,61,1,1.01,smoke
+153,Myrtle Beach,US,33.6891,-78.8867,81.05,94,20,5.75,few clouds
+154,Republic,US,37.12,-93.4802,79.0,87,1,3.0,clear sky
+155,Port Hueneme,US,34.1478,-119.1951,90.64,75,90,8.05,mist
+156,Brenham,US,30.1669,-96.3977,80.56,84,1,3.44,clear sky
+157,Petersburg,US,37.2279,-77.4019,76.15,84,40,0.0,scattered clouds
+158,Pecos,US,31.4229,-103.4932,90.43,31,1,8.05,clear sky
+159,Pemberton,CA,50.3164,-122.8027,63.09,87,100,5.32,overcast clouds
+160,Eugene,US,44.0521,-123.0867,83.95,51,40,1.01,scattered clouds
+161,Cranbrook,CA,49.4999,-115.7688,76.95,35,100,8.97,overcast clouds
+162,Bristol,US,41.8334,-71.1662,73.0,85,1,1.99,clear sky
+163,Prescott,US,34.54,-112.4685,88.9,32,40,4.0,scattered clouds
+164,Sterling,US,39.0062,-77.4286,80.53,68,75,1.01,broken clouds
+165,Weyburn,CA,49.6668,-103.8511,77.18,45,100,9.26,overcast clouds
+166,Goshen,US,41.5823,-85.8344,71.49,94,90,4.61,overcast clouds
+167,Whitefish,US,48.4111,-114.3376,77.9,46,94,9.01,overcast clouds
+168,Zanesville,US,39.9404,-82.0132,76.08,85,90,0.0,overcast clouds
+169,Freeport,US,40.6576,-73.5832,80.62,77,1,3.0,clear sky
+170,West Wendover,US,40.7391,-114.0733,81.61,17,1,11.5,clear sky
+171,Grandview,US,38.8858,-94.533,83.07,76,1,1.99,clear sky
+172,Whitecourt,CA,54.1502,-115.6855,63.27,72,29,1.41,moderate rain
+173,Barstow,US,34.8986,-117.0228,101.39,9,0,18.88,clear sky
+174,Dodge City,US,37.7528,-100.0171,85.64,50,1,8.01,haze
+175,Campbell River,CA,50.0163,-125.2446,63.59,75,100,0.78,overcast clouds
+176,Winona,US,43.9666,-91.7668,76.8,85,1,0.0,clear sky
+177,Marquette,US,46.5333,-87.6335,61.77,89,15,4.43,few clouds
+178,Farmington,US,36.7281,-108.2187,90.7,17,1,8.05,clear sky
+179,Suamico,US,44.6319,-88.0393,74.17,85,1,5.75,clear sky
+180,Stony Mountain,CA,50.0864,-97.2196,71.1,39,90,6.64,overcast clouds
+181,Cookeville,US,36.1628,-85.5016,73.62,94,90,0.0,overcast clouds
+182,Rogers,US,36.3668,-95.5836,85.1,65,1,4.0,clear sky
+183,Saint-Ambroise,CA,48.5501,-71.3324,71.58,71,100,3.53,overcast clouds
+184,Eston,CA,51.1501,-108.7514,84.92,41,33,14.74,scattered clouds
+185,Lapeer,US,43.0514,-83.3188,74.75,68,1,5.75,clear sky
+186,Dauphin,CA,51.1494,-100.0502,75.97,42,48,13.27,scattered clouds
+187,Kailua,US,21.4022,-157.7394,89.58,65,20,14.97,few clouds
+188,Fort Frances,CA,48.5999,-93.4003,66.06,73,1,4.0,clear sky
+189,Evanston,US,42.0411,-87.6901,78.98,74,75,5.01,broken clouds
+190,Hopatcong,US,40.9329,-74.6593,78.03,76,92,0.0,overcast clouds
+191,Boone,US,39.0334,-92.3335,80.53,79,0,5.32,clear sky
+192,Killam,CA,52.7834,-111.8518,75.72,39,100,16.93,overcast clouds
+193,Winnemucca,US,40.973,-117.7357,84.25,10,1,6.91,clear sky
+194,Sheridan,US,44.8333,-106.9173,72.66,66,1,1.99,clear sky
+195,Sunrise Manor,US,36.2111,-115.0731,105.31,4,1,18.41,clear sky
+196,Scottsbluff,US,41.8666,-103.6672,77.23,50,1,11.5,clear sky
+197,Kitimat,CA,54.0524,-128.6534,55.47,98,100,2.62,light rain
+198,Elmvale,CA,44.5834,-79.8664,73.44,87,100,7.94,overcast clouds
+199,Van Wert,US,40.8695,-84.5841,75.25,69,1,3.0,clear sky
+200,Arcata,US,40.8665,-124.0828,71.13,80,1,1.99,clear sky
+201,Minot,US,48.2325,-101.2963,78.12,49,1,3.0,clear sky
+202,Gallup,US,35.5281,-108.7426,83.16,26,1,14.97,clear sky
+203,Madera,US,37.1666,-119.8343,96.08,23,0,1.01,clear sky
+204,Henderson,US,36.0397,-114.9819,105.24,4,1,16.11,clear sky
+205,Oakdale,US,44.963,-92.9649,80.02,71,1,1.99,clear sky
+206,Dublin,US,37.7021,-121.9358,92.89,57,1,3.0,haze
+207,Gillette,US,44.2911,-105.5022,74.32,38,1,6.91,clear sky
+208,Bloomingdale,US,27.8936,-82.2404,85.89,86,90,1.01,overcast clouds
+209,Marshalltown,US,42.0494,-92.908,79.07,83,1,4.61,clear sky
+210,Greenwood,US,34.1668,-82.1165,73.54,76,90,3.44,overcast clouds
