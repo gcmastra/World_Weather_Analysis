@@ -20,9 +20,20 @@ Please make note of the comments in the code, for example:
 ![image](https://user-images.githubusercontent.com/86205000/128585765-265e4353-26c3-4bf0-a125-10be5e793757.png)
 
 
-## Deliverable # 2 Placeholder
+## Deliverable # 2 Create a Customer Travel Destinations Map
 
-This is where the description of the Deliverable #2 will go
+The second deliverable includes a notebook, a CSV output file of cleaned hotel information, and a map with markers and info boxes with weather information.  The exact number of cities displayed on the map depends on the user input of the minimum and maximum temperature desired at their destination. 
+
+When creating the map in the notebook, it worked and the map was displayed, and clicking the pins/markers on the map causes weather information to pop up.  However when using the download widget next to the cell to download the map as a png file, only the pins are displayed without the info boxes.  So I took a screen capture of the map with the info boxes showing and that is included below. 
+
+![image](/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG)
+
+Files are located in the folder "World_Weather_Analysis/Vacation_Search"
+
+Here are links to the files included in the deliverable: 
+Notebook File: <a href="">Vacation_Search.ipynb</a><br>
+Output file (CSV format) containing cleaned Hotel dataframe: <a href="">WeatherPy_vacation.csv</a>
+<br><a href="https://github.com/gcmastra/World_Weather_Analysis/blob/1aee956a035be816f1924ff22514286ee7247b8d/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG">Link to map image showing markers with weather info</a><br>
 
 ## Deliverable # 3 Placeholder
 
