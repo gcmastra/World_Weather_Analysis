@@ -1,0 +1,76 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+1,Houma,US,84.97,few clouds,29.5958,-90.7195,Courtyard by Marriott Houma
+3,Poplar Bluff,US,76.78,clear sky,36.757,-90.3929,Holiday Inn Poplar Bluff
+6,Fortuna,US,81.19,clear sky,40.5982,-124.1573,Super 8 by Wyndham Fortuna
+10,Opelousas,US,80.49,clear sky,30.5335,-92.0815,"Holiday Inn & Suites Opelousas, an IHG Hotel"
+11,Hilo,US,76.8,light rain,19.7297,-155.09,Hilo Hawaiian Hotel
+12,Hamilton,US,76.77,clear sky,39.1834,-84.5333,Six Acres Bed & Breakfast
+18,Kapaa,US,84.52,broken clouds,22.0752,-159.319,Sheraton Kauai Coconut Beach Resort
+20,Springville,US,78.67,haze,40.1652,-111.6107,Best Western Mountain View Inn
+25,Kahului,US,85.26,few clouds,20.8947,-156.47,Maui Seaside Hotel
+31,Glendive,US,80.22,broken clouds,47.1053,-104.7125,Baymont by Wyndham Glendive
+33,East Millcreek,US,78.08,haze,40.7,-111.8105,Hampton Inn & Suites Salt Lake City/University-Foothill Dr.
+34,Lincoln,US,85.28,clear sky,40.8,-96.667,Courtyard by Marriott Lincoln Downtown/Haymarket
+39,Invermere,CA,77.63,overcast clouds,50.5167,-116.0354,Copper Point Resort
+40,North Bend,US,78.24,overcast clouds,43.4065,-124.2243,Red Lion Hotel Coos Bay
+42,Meridian,US,83.32,clear sky,43.6121,-116.3915,Courtyard by Marriott Boise West/Meridian
+49,Lompoc,US,77.77,mist,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+51,Batesville,US,79.21,clear sky,35.7698,-91.641,"Holiday Inn Express & Suites Batesville, an IHG Hotel"
+55,Mayo,US,80.91,clear sky,38.8876,-76.5119,Resorts Resource Group International
+56,Rolla,US,79.21,clear sky,37.9514,-91.7713,"Holiday Inn Express & Suites Rolla - Univ of Missouri S&T, an IHG Hotel"
+64,North Myrtle Beach,US,82.02,few clouds,33.816,-78.68,Avista Resort
+65,Mattoon,US,76.62,clear sky,39.4831,-88.3728,"Holiday Inn Express & Suites Mattoon, an IHG Hotel"
+68,Sevierville,US,77.52,clear sky,35.8681,-83.5618,The Lodge at Five Oaks
+74,Isla Vista,US,83.68,clear sky,34.4133,-119.861,Best Western Plus South Coast Inn
+77,Havelock,US,78.94,overcast clouds,34.8791,-76.9013,Sherwood Motel
+90,Washington,US,77.95,overcast clouds,47.5001,-120.5015,"Cashmere Cider Mill Guest Suites, Weddings & Tasting Room"
+91,Maple Creek,CA,77.5,overcast clouds,49.9168,-109.4848,Willowbend Campground & Cabins
+96,Elko,US,77.74,clear sky,41.0002,-115.5012,
+99,Galveston,US,84.94,clear sky,29.3669,-94.9669,Comfort Inn & Suites Texas City
+100,Dickinson,US,84.29,few clouds,29.4608,-95.0513,Hampton Inn & Suites Houston/League City
+102,Tallahassee,US,80.62,clear sky,30.4383,-84.2807,Four Points by Sheraton Tallahassee Downtown
+103,Outlook,CA,83.8,scattered clouds,51.5001,-107.0513,Red Wheel Motel
+105,Polson,US,78.28,broken clouds,47.6936,-114.1632,Americas Best Value Port Polson Inn
+109,Melville,US,78.85,clear sky,40.7934,-73.4151,Marriott Melville Long Island
+110,Phenix City,US,80.74,clear sky,32.471,-85.0008,Columbus Marriott
+113,Douglas,US,84.74,clear sky,41.3,-96.167,Hilton Garden Inn Omaha West
+114,Plant City,US,85.57,light rain,28.0186,-82.1129,"Holiday Inn Express & Suites Plant City, an IHG Hotel"
+118,Lewistown,US,79.93,light rain,40.5992,-77.5714,Quality Inn & Suites
+122,Fort Smith,US,82.44,clear sky,35.3859,-94.3986,Hampton Inn Fort Smith
+124,West Plains,US,77.09,clear sky,36.7281,-91.8524,West Plains Motel
+125,Susanville,US,80.44,haze,40.4163,-120.653,Comfort Inn & Suites
+128,Fairview,US,79.86,clear sky,40.8126,-73.999,Homewood Suites by Hilton Edgewater-NYC Area
+129,Bend,US,79.88,clear sky,44.0582,-121.3153,Fairfield Inn & Suites by Marriott Bend Downtown
+133,Englewood,US,82.24,scattered clouds,39.6478,-104.9878,Holiday Motel
+134,New Kensington,US,78.04,overcast clouds,40.5698,-79.7648,SpringHill Suites by Marriott Pittsburgh Mills
+135,Hayden,US,82.06,clear sky,47.766,-116.7866,Triple Play Resort Hotel & Suites
+138,North Platte,US,85.01,thunderstorm,41.1239,-100.7654,"Holiday Inn Express & Suites North Platte, an IHG Hotel"
+139,Show Low,US,80.89,clear sky,34.2542,-110.0298,Hampton Inn & Suites Show Low-Pinetop
+140,Destin,US,83.97,clear sky,30.3935,-86.4958,Inn On Destin Harbor-Ascend Hotel Collection
+146,Villa Rica,US,76.69,overcast clouds,33.7321,-84.9191,Days Inn by Wyndham Villa Rica
+150,Sartell,US,78.39,few clouds,45.6216,-94.2069,AmericInn by Wyndham Sartell
+153,Myrtle Beach,US,81.05,few clouds,33.6891,-78.8867,Bay View Resort Myrtle Beach
+154,Republic,US,79.0,clear sky,37.12,-93.4802,AmericInn by Wyndham Republic
+156,Brenham,US,80.56,clear sky,30.1669,-96.3977,Hampton Inn & Suites Brenham
+160,Eugene,US,83.95,scattered clouds,44.0521,-123.0867,Valley River Inn
+161,Cranbrook,CA,76.95,overcast clouds,49.4999,-115.7688,Almo Court Motel
+164,Sterling,US,80.53,broken clouds,39.0062,-77.4286,Hampton Inn & Suites Washington-Dulles International Airport
+165,Weyburn,CA,77.18,overcast clouds,49.6668,-103.8511,Perfect Inns & Suites
+167,Whitefish,US,77.9,overcast clouds,48.4111,-114.3376,Best Western Rocky Mountain Lodge
+169,Freeport,US,80.62,clear sky,40.6576,-73.5832,The Freeport Inn and Marina
+170,West Wendover,US,81.61,clear sky,40.7391,-114.0733,"Motel 6 Wendover, UT"
+171,Grandview,US,83.07,clear sky,38.8858,-94.533,Holiday Inn Express & Suites Kansas City-Grandview
+174,Dodge City,US,85.64,haze,37.7528,-100.0171,Windsor Inn & Suites
+176,Winona,US,76.8,clear sky,43.9666,-91.7668,
+182,Rogers,US,85.1,clear sky,36.3668,-95.5836,Claremore Motor Inn
+184,Eston,CA,84.92,scattered clouds,51.1501,-108.7514,Hearthside Place B&B
+189,Evanston,US,78.98,broken clouds,42.0411,-87.6901,Hilton Garden Inn Chicago North Shore/Evanston
+190,Hopatcong,US,78.03,overcast clouds,40.9329,-74.6593,"Holiday Inn Express & Suites Mount Arlington-Rockaway Area, an IHG Hotel"
+191,Boone,US,80.53,clear sky,39.0334,-92.3335,Cottonwoods RV Park
+193,Winnemucca,US,84.25,clear sky,40.973,-117.7357,Winners Inn Casino
+196,Scottsbluff,US,77.23,clear sky,41.8666,-103.6672,Hampton Inn & Suites Scottsbluff-Conference Center
+201,Minot,US,78.12,clear sky,48.2325,-101.2963,Noble Inn
+202,Gallup,US,83.16,clear sky,35.5281,-108.7426,El Capitan Motel
+205,Oakdale,US,80.02,clear sky,44.963,-92.9649,Best Western Regency Plaza Hotel - St. Paul East
+208,Bloomingdale,US,85.89,overcast clouds,27.8936,-82.2404,Travel Club for Free
+209,Marshalltown,US,79.07,clear sky,42.0494,-92.908,Best Western Regency Inn
