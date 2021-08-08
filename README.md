@@ -28,16 +28,22 @@ When creating the map in the notebook, it worked and the map was displayed, and 
 
 ![image](/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG)
 
-Files are located in the folder "World_Weather_Analysis/Vacation_Search"
+Files are located in the folder "World_Weather_Analysis/Vacation_Search" - here are the links to the files: <br>
+File # 1 - <a href="https://github.com/gcmastra/World_Weather_Analysis/blob/0ebcc04d9cff299134722e5982b20ded2085deff/Vacation_Search/Vacation_Search.ipynb">Vacation_Search.ipynb</a><br>
+File # 2 - <a href="https://github.com/gcmastra/World_Weather_Analysis/blob/0ebcc04d9cff299134722e5982b20ded2085deff/Vacation_Search/WeatherPy_vacation.csv">WeatherPy_vacation.csv</a><br>
+File # 3 - <a href="https://github.com/gcmastra/World_Weather_Analysis/blob/2e13a1cb5416a5edf3200b46fb35ed62388e1b56/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG">Link to map image showing markers with weather info</a><br>
 
-Here are links to the files included in the deliverable: 
-Notebook File: <a href="">Vacation_Search.ipynb</a><br>
-Output file (CSV format) containing cleaned Hotel dataframe: <a href="">WeatherPy_vacation.csv</a>
-<br><a href="https://github.com/gcmastra/World_Weather_Analysis/blob/2e13a1cb5416a5edf3200b46fb35ed62388e1b56/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG">Link to map image showing markers with weather info</a><br>
+## Deliverable # 3 - Create a Travel Itinerary Map
 
-## Deliverable # 3 Placeholder
+Files are saved in Vacation_Itinerary folder which is a subfolder of the main World_Weather_Analysis folder of this repository.<br>
+File #1 - <a href="https://github.com/gcmastra/World_Weather_Analysis/blob/0ebcc04d9cff299134722e5982b20ded2085deff/Vacation_Itinerary/Vacation_Itinerary.ipynb">Vacation_Itinerary.ipynb</a>
+<br>
+File #2 - <a href="https://github.com/gcmastra/World_Weather_Analysis/blob/0ebcc04d9cff299134722e5982b20ded2085deff/Vacation_Itinerary/WeatherPy_travel_map.png">WeatherPy_travel_map.png</a><br>
+File #3 - <a href="https://github.com/gcmastra/World_Weather_Analysis/blob/0ebcc04d9cff299134722e5982b20ded2085deff/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG">WeatherPy_travel_map_markers.PNG</a><br><br>
 
-This is where the description of the Deliverable #3 will go
+                 
+This is the travel itinerary map for four cities in USA
+![image](https://user-images.githubusercontent.com/86205000/128645855-d0dce724-6ad3-4c48-805b-6b5ee25c34b7.png)
 
 
 <hr>
