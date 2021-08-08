@@ -33,7 +33,7 @@ Files are located in the folder "World_Weather_Analysis/Vacation_Search"
 Here are links to the files included in the deliverable: 
 Notebook File: <a href="">Vacation_Search.ipynb</a><br>
 Output file (CSV format) containing cleaned Hotel dataframe: <a href="">WeatherPy_vacation.csv</a>
-<br><a href="https://github.com/gcmastra/World_Weather_Analysis/blob/1aee956a035be816f1924ff22514286ee7247b8d/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG">Link to map image showing markers with weather info</a><br>
+<br><a href="https://github.com/gcmastra/World_Weather_Analysis/blob/2e13a1cb5416a5edf3200b46fb35ed62388e1b56/Vacation_Search/gwu20210807_challenge_deliverable2_map_image_with_markers.JPG">Link to map image showing markers with weather info</a><br>
 
 ## Deliverable # 3 Placeholder
 
